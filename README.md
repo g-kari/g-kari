@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![G-Kari's GitHub stats](https://github-readme-stats-five-chi-78.vercel.app/api?username=g-kari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-five-chi-78.vercel.app/api/top-langs/?username=g-kari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![G-Kari's GitHub stats](https://github-readme-stats.0g0.xyz/api?username=g-kari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.0g0.xyz/api/top-langs/?username=g-kari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 g-kari/g-kari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
